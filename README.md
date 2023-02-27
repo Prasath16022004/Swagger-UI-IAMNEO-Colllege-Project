@@ -1,1 +1,1 @@
-# Swagger-UI-IAMNEO-Colllege-Project
+# Swagger-UI-IAMNEO-College-Project
